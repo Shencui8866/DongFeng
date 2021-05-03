@@ -1,0 +1,79 @@
+[21:04:42 | Log]	192.168.1.11
+[21:04:43 | Log]	Client Message Connect -> hostId: 0 connectionId: 1 isReady: False channel count: 2
+[21:04:52 | Log]	ReceiveData -> {"PageType":"","Function":"闲置","Data":[]}
+[21:04:52 | Error]	闲置
+[21:04:54 | Log]	ReceiveData -> {"PageType":"","Function":"流程开始","Data":[{"key":"msg","value":"1"}]}
+[21:04:54 | Error]	流程开始:地上到地上
+[21:04:54 | Log]	预加载 -> D:/Unity/DongFeng/Video/环幕/2U.mp4
+[21:04:54 | Log]	预加载 -> D:/Unity/DongFeng/Video/环幕/2G.mp4
+[21:04:54 | Log]	ReceiveData -> {"PageType":"","Function":"CarDrive","Data":[]}
+[21:04:54 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"车辆出库"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[21:04:54 | Log]	ReceiveData -> {"PageType":"","Function":"CarDrive","Data":[]}
+[21:04:54 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"车辆出库"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[21:04:57 | Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"车辆出库"},{"key":"select","value":"MP1"}]}
+[21:04:57 | Log]	ReceiveData -> {"PageType":"","Function":"PlayVideoNotify","Data":[{"key":"vName","value":"2U"}]}
+[21:04:57 | Log]	播放完成 -> D:/Unity/DongFeng/Video/环幕/1G.mp4
+[21:04:57 | Log]	正在播放 -> D:/Unity/DongFeng/Video/环幕/2U.mp4
+[21:04:57 | Warning]	通知播放视频名称 -> 2U
+[21:04:57 | Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"车辆出库"},{"key":"select","value":"MP1"}]}
+[21:04:57 | Log]	ReceiveData -> {"PageType":"","Function":"PlayVideoNotify","Data":[{"key":"vName","value":"2U"}]}
+[21:05:08 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"用户上车"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"True"}]}
+[21:05:08 | Log]	预加载 -> D:/Unity/DongFeng/Video/环幕/3.mp4
+[21:05:08 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"用户上车"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"True"}]}
+[21:05:17 | Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"用户上车"},{"key":"select","value":"MP1"}]}
+[21:05:17 | Log]	ReceiveData -> {"PageType":"","Function":"PlayVideoNotify","Data":[{"key":"vName","value":"3"}]}
+[21:05:17 | Log]	播放完成 -> D:/Unity/DongFeng/Video/环幕/2U.mp4
+[21:05:17 | Log]	正在播放 -> D:/Unity/DongFeng/Video/环幕/3.mp4
+[21:05:17 | Warning]	通知播放视频名称 -> 3
+[21:05:17 | Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"用户上车"},{"key":"select","value":"MP1"}]}
+[21:05:17 | Log]	ReceiveData -> {"PageType":"","Function":"PlayVideoNotify","Data":[{"key":"vName","value":"3"}]}
+[21:05:19 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"出发前准备"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[21:05:19 | Log]	预加载 -> D:/Unity/DongFeng/Video/环幕/4.mp4
+[21:05:19 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"出发前准备"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[21:05:29 | Log]	ReceiveData -> {"PageType":"","Function":"闲置","Data":[]}
+[21:05:29 | Error]	闲置
+[21:05:32 | Log]	ReceiveData -> {"PageType":"","Function":"流程开始","Data":[{"key":"msg","value":"1"}]}
+[21:05:32 | Error]	流程开始:地上到地上
+[21:05:33 | Log]	预加载 -> D:/Unity/DongFeng/Video/环幕/2U.mp4
+[21:05:33 | Log]	预加载 -> D:/Unity/DongFeng/Video/环幕/2G.mp4
+[21:05:33 | Log]	ReceiveData -> {"PageType":"","Function":"CarDrive","Data":[]}
+[21:05:33 | Log]	ReceiveData -> {"PageType":"","Function":"CarDrive","Data":[]}
+[21:05:33 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"车辆出库"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[21:05:33 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"车辆出库"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[21:05:35 | Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"车辆出库"},{"key":"select","value":"MP1"}]}
+[21:05:35 | Log]	ReceiveData -> {"PageType":"","Function":"PlayVideoNotify","Data":[{"key":"vName","value":"2U"}]}
+[21:05:35 | Log]	播放完成 -> D:/Unity/DongFeng/Video/环幕/1G.mp4
+[21:05:35 | Log]	正在播放 -> D:/Unity/DongFeng/Video/环幕/2U.mp4
+[21:05:35 | Warning]	通知播放视频名称 -> 2U
+[21:05:35 | Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"车辆出库"},{"key":"select","value":"MP1"}]}
+[21:05:35 | Log]	ReceiveData -> {"PageType":"","Function":"PlayVideoNotify","Data":[{"key":"vName","value":"2U"}]}
+[21:05:46 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"用户上车"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"True"}]}
+[21:05:46 | Log]	预加载 -> D:/Unity/DongFeng/Video/环幕/3.mp4
+[21:05:47 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"用户上车"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"True"}]}
+[21:05:55 | Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"用户上车"},{"key":"select","value":"MP1"}]}
+[21:05:55 | Log]	ReceiveData -> {"PageType":"","Function":"PlayVideoNotify","Data":[{"key":"vName","value":"3"}]}
+[21:05:55 | Log]	播放完成 -> D:/Unity/DongFeng/Video/环幕/2U.mp4
+[21:05:55 | Log]	正在播放 -> D:/Unity/DongFeng/Video/环幕/3.mp4
+[21:05:55 | Warning]	通知播放视频名称 -> 3
+[21:05:56 | Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"用户上车"},{"key":"select","value":"MP1"}]}
+[21:05:56 | Log]	ReceiveData -> {"PageType":"","Function":"PlayVideoNotify","Data":[{"key":"vName","value":"3"}]}
+[21:05:57 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"出发前准备"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[21:05:58 | Log]	预加载 -> D:/Unity/DongFeng/Video/环幕/4.mp4
+[21:05:58 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"出发前准备"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[21:06:24 | Log]	ReceiveData -> {"PageType":"","Function":"闲置","Data":[]}
+[21:06:24 | Error]	闲置
+[21:06:27 | Log]	ReceiveData -> {"PageType":"","Function":"流程开始","Data":[{"key":"msg","value":"1"}]}
+[21:06:27 | Error]	流程开始:地上到地上
+[21:06:27 | Log]	ReceiveData -> {"PageType":"","Function":"CarDrive","Data":[]}
+[21:06:27 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"车辆出库"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[21:06:27 | Log]	ReceiveData -> {"PageType":"","Function":"CarDrive","Data":[]}
+[21:06:27 | Log]	预加载 -> D:/Unity/DongFeng/Video/环幕/2U.mp4
+[21:06:27 | Log]	预加载 -> D:/Unity/DongFeng/Video/环幕/2G.mp4
+[21:06:27 | Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"车辆出库"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[21:06:29 | Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"车辆出库"},{"key":"select","value":"MP1"}]}
+[21:06:29 | Log]	ReceiveData -> {"PageType":"","Function":"PlayVideoNotify","Data":[{"key":"vName","value":"2U"}]}
+[21:06:30 | Log]	播放完成 -> D:/Unity/DongFeng/Video/环幕/1G.mp4
+[21:06:30 | Log]	正在播放 -> D:/Unity/DongFeng/Video/环幕/2U.mp4
+[21:06:30 | Warning]	通知播放视频名称 -> 2U
+[21:06:30 | Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"车辆出库"},{"key":"select","value":"MP1"}]}
+[21:06:30 | Log]	ReceiveData -> {"PageType":"","Function":"PlayVideoNotify","Data":[{"key":"vName","value":"2U"}]}

@@ -1,0 +1,43 @@
+[18:56:30 | Log]	127.0.0.1
+[18:56:30 | Log]	Server Message Connect -> hostId: 0 connectionId: 1 isReady: False channel count: 2
+[18:56:30 | Log]	Server Message Connect -> hostId: 0 connectionId: 2 isReady: False channel count: 2
+[18:56:30 | Log]	Client Message Connect -> hostId: 1 connectionId: 1 isReady: False channel count: 2
+[18:56:30 | Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Wall/Video/环幕/1G.mp4
+[18:56:30 | Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Wall/Video/环幕/1G.mp4
+[18:56:33 | Error]	Cannot connect to destination host
+[18:56:33 | Error]	Cannot connect to destination host
+[18:56:33 | Error]	Cannot connect to destination host
+[18:56:33 | Error]	Cannot connect to destination host
+[18:56:33 | Error]	Cannot connect to destination host
+[18:56:33 | Error]	Cannot connect to destination host
+[18:56:33 | Error]	Cannot connect to destination host
+[18:56:34 | Error]	Cannot connect to destination host
+[18:56:34 | Error]	Cannot connect to destination host
+[18:56:34 | Error]	Cannot connect to destination host
+[18:56:34 | Error]	Cannot connect to destination host
+[18:56:34 | Error]	Cannot connect to destination host
+[18:56:34 | Error]	Cannot connect to destination host
+[18:56:34 | Error]	Cannot connect to destination host
+[18:56:34 | Error]	Cannot connect to destination host
+[18:56:35 | Error]	Cannot connect to destination host
+[18:56:35 | Error]	Cannot connect to destination host
+[18:56:35 | Error]	Cannot connect to destination host
+[18:56:35 | Error]	Cannot connect to destination host
+[18:56:35 | Error]	Cannot connect to destination host
+[18:56:35 | Error]	Cannot connect to destination host
+[18:56:35 | Error]	Cannot connect to destination host
+[18:56:35 | Error]	Cannot connect to destination host
+[18:56:36 | Error]	Cannot connect to destination host
+[18:56:36 | Error]	Cannot connect to destination host
+[18:56:36 | Error]	Cannot connect to destination host
+[18:56:36 | Error]	Cannot connect to destination host
+[18:56:36 | Error]	Cannot connect to destination host
+[18:56:36 | Error]	Cannot connect to destination host
+[18:56:36 | Error]	Cannot connect to destination host
+[18:56:36 | Error]	Cannot connect to destination host
+[18:56:37 | Error]	Cannot connect to destination host
+[18:56:37 | Error]	Cannot connect to destination host
+[18:56:37 | Error]	Cannot connect to destination host
+[18:56:37 | Error]	Cannot connect to destination host
+[18:56:37 | Error]	Cannot connect to destination host
+[18:56:37 | Error]	Cannot connect to destination host

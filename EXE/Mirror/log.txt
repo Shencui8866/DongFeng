@@ -1,0 +1,258 @@
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1G.mp4
+[Log]	192.168.1.111
+[Log]	Client Message Connect -> hostId: 0 connectionId: 1 isReady: False channel count: 2
+[Log]	OnConnect
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1G.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"闲置","Data":[]}
+[Error]	闲置
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1G.mp4
+[Log]	Client Message DisConnect -> hostId: 0 connectionId: 1 isReady: False channel count: 2
+[Log]	192.168.1.111
+[Log]	Client Message Connect -> hostId: 1 connectionId: 1 isReady: False channel count: 2
+[Log]	OnConnect
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1G.mp4
+[Log]	Client Message DisConnect -> hostId: 1 connectionId: 1 isReady: False channel count: 2
+[Log]	192.168.1.111
+[Log]	Client Message Connect -> hostId: 2 connectionId: 1 isReady: False channel count: 2
+[Log]	OnConnect
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1G.mp4
+[Log]	Client Message DisConnect -> hostId: 2 connectionId: 1 isReady: False channel count: 2
+[Log]	192.168.1.111
+[Log]	Client Message Connect -> hostId: 3 connectionId: 1 isReady: False channel count: 2
+[Log]	OnConnect
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1G.mp4
+[Log]	Client Message DisConnect -> hostId: 3 connectionId: 1 isReady: False channel count: 2
+[Log]	192.168.1.111
+[Log]	Client Message Connect -> hostId: 4 connectionId: 1 isReady: False channel count: 2
+[Log]	OnConnect
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1G.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"流程开始","Data":[{"key":"msg","value":"1"}]}
+[Error]	流程开始:地上到地上
+[Log]	ReceiveData -> {"PageType":"","Function":"CarDrive","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"车辆出库"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2U.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2U.mp4
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2G.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2G.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"车辆出库"},{"key":"select","value":"MP2"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1G.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2G.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"用户上车"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"True"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/3.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"用户上车"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2G.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/3.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"出发前准备"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/4.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏情景模式选择","Data":[{"key":"msg","value":"0"}]}
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"出发前准备"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/3.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/4.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"前方拥堵"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/5N.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/5Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"RouteNotice","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏规划路径结果","Data":[{"key":"msg","value":"0"}]}
+[Error]	大屏规划路径结果:否
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"前方拥堵"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/4.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/5N.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"前方拥堵直线"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/6.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"前方拥堵直线"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/5N.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/6.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"前车缓行"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/7N.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/7Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"OvertakeNotice","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏变道超车结果","Data":[{"key":"msg","value":"1"}]}
+[Error]	大屏变道超车结果:是
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"前车缓行"},{"key":"select","value":"MP2"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/6.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/7Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"前车缓行直线"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"前车缓行直线"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/7Y.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"进入游戏"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8N.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"GameStart","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏游戏反馈","Data":[{"key":"msg","value":"1"}]}
+[Error]	大屏游戏反馈:是
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"进入游戏"},{"key":"select","value":"MP2"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"游戏结束"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/9N.mp4
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/9.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/9.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"GameReStart","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏游戏结束","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"GameOver","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"游戏结束"},{"key":"select","value":"MP2"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8Y.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/9.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"用户下车"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/10.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"用户下车"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/9.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/10.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"等待用户下车"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"True"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/11.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"ArriveNotice","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"等待用户下车"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/10.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/11.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"车辆入库"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/12U.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/12U.mp4
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/12G.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/12G.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏车辆关门","Data":[]}
+[Error]	大屏车辆关门:从地上到地下
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"车辆入库"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/11.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/12U.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"车辆入库循环"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"True"}]}
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1U.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1U.mp4
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1G.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1G.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"车辆入库循环"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/12U.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1U.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"流程开始","Data":[{"key":"msg","value":"0"}]}
+[Error]	流程开始:地下到地上
+[Log]	ReceiveData -> {"PageType":"","Function":"CarDrive","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"车辆出库"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2U.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2U.mp4
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2G.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2G.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"车辆出库"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/1U.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2U.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"用户上车"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"True"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/3.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"用户上车"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2U.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/3.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"出发前准备"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/4.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏情景模式选择","Data":[{"key":"msg","value":"0"}]}
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"出发前准备"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/3.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/4.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"前方拥堵"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/5N.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/5Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"RouteNotice","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏规划路径结果","Data":[{"key":"msg","value":"0"}]}
+[Error]	大屏规划路径结果:否
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"前方拥堵"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/4.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/5N.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"前方拥堵直线"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/6.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"前方拥堵直线"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/5N.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/6.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"前车缓行"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/7N.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/7Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"OvertakeNotice","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏变道超车结果","Data":[{"key":"msg","value":"1"}]}
+[Error]	大屏变道超车结果:是
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"前车缓行"},{"key":"select","value":"MP2"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/6.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/7Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"前车缓行直线"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"前车缓行直线"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/7Y.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"进入游戏"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8N.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"GameStart","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏游戏反馈","Data":[{"key":"msg","value":"0"}]}
+[Error]	大屏游戏反馈:否
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"进入游戏"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8N.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"游戏结束"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/9N.mp4
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/9.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/9.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"游戏结束"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8N.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/9N.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"用户下车"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/10.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"用户下车"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/9N.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/10.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"等待用户下车"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"True"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/11.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"ArriveNotice","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"等待用户下车"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/10.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/11.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"车辆入库"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/12U.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/12U.mp4
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/12G.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/12G.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"流程开始","Data":[{"key":"msg","value":"1"}]}
+[Error]	流程开始:地上到地上
+[Log]	ReceiveData -> {"PageType":"","Function":"CarDrive","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"车辆出库"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2U.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2U.mp4
+[Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2G.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2G.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"车辆出库"},{"key":"select","value":"MP2"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/11.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2G.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"用户上车"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"True"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/3.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"用户上车"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/2G.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/3.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"出发前准备"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/4.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏情景模式选择","Data":[{"key":"msg","value":"1"}]}
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"出发前准备"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/3.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/4.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"前方拥堵"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/5N.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/5Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"RouteNotice","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏规划路径结果","Data":[{"key":"msg","value":"1"}]}
+[Error]	大屏规划路径结果:是
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"前方拥堵"},{"key":"select","value":"MP2"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/4.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/5Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"前方拥堵直线"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/6.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"前方拥堵直线"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/5Y.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/6.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"前车缓行"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/7N.mp4
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/7Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"OvertakeNotice","Data":[]}
+[Log]	ReceiveData -> {"PageType":"","Function":"大屏变道超车结果","Data":[{"key":"msg","value":"1"}]}
+[Error]	大屏变道超车结果:是
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"前车缓行"},{"key":"select","value":"MP2"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/6.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/7Y.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoLoad","Data":[{"key":"type","value":"前车缓行直线"},{"key":"autoPlay","value":"False"},{"key":"top","value":"False"},{"key":"loop","value":"False"}]}
+[Log]	预加载 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8.mp4
+[Log]	ReceiveData -> {"PageType":"","Function":"VideoPlay","Data":[{"key":"type","value":"前车缓行直线"},{"key":"select","value":"MP1"}]}
+[Log]	播放完成 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/7Y.mp4
+[Log]	正在播放 -> D:/Unity/DongFeng/EXE/Mirror/Video/后视镜屏/8.mp4
