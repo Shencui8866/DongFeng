@@ -1,43 +1,7 @@
-[18:56:30 | Log]	127.0.0.1
-[18:56:30 | Log]	Server Message Connect -> hostId: 0 connectionId: 1 isReady: False channel count: 2
-[18:56:30 | Log]	Server Message Connect -> hostId: 0 connectionId: 2 isReady: False channel count: 2
-[18:56:30 | Log]	Client Message Connect -> hostId: 1 connectionId: 1 isReady: False channel count: 2
-[18:56:30 | Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Wall/Video/环幕/1G.mp4
-[18:56:30 | Error]	[AVProVideo] File not found: D:/Unity/DongFeng/EXE/Wall/Video/环幕/1G.mp4
-[18:56:33 | Error]	Cannot connect to destination host
-[18:56:33 | Error]	Cannot connect to destination host
-[18:56:33 | Error]	Cannot connect to destination host
-[18:56:33 | Error]	Cannot connect to destination host
-[18:56:33 | Error]	Cannot connect to destination host
-[18:56:33 | Error]	Cannot connect to destination host
-[18:56:33 | Error]	Cannot connect to destination host
-[18:56:34 | Error]	Cannot connect to destination host
-[18:56:34 | Error]	Cannot connect to destination host
-[18:56:34 | Error]	Cannot connect to destination host
-[18:56:34 | Error]	Cannot connect to destination host
-[18:56:34 | Error]	Cannot connect to destination host
-[18:56:34 | Error]	Cannot connect to destination host
-[18:56:34 | Error]	Cannot connect to destination host
-[18:56:34 | Error]	Cannot connect to destination host
-[18:56:35 | Error]	Cannot connect to destination host
-[18:56:35 | Error]	Cannot connect to destination host
-[18:56:35 | Error]	Cannot connect to destination host
-[18:56:35 | Error]	Cannot connect to destination host
-[18:56:35 | Error]	Cannot connect to destination host
-[18:56:35 | Error]	Cannot connect to destination host
-[18:56:35 | Error]	Cannot connect to destination host
-[18:56:35 | Error]	Cannot connect to destination host
-[18:56:36 | Error]	Cannot connect to destination host
-[18:56:36 | Error]	Cannot connect to destination host
-[18:56:36 | Error]	Cannot connect to destination host
-[18:56:36 | Error]	Cannot connect to destination host
-[18:56:36 | Error]	Cannot connect to destination host
-[18:56:36 | Error]	Cannot connect to destination host
-[18:56:36 | Error]	Cannot connect to destination host
-[18:56:36 | Error]	Cannot connect to destination host
-[18:56:37 | Error]	Cannot connect to destination host
-[18:56:37 | Error]	Cannot connect to destination host
-[18:56:37 | Error]	Cannot connect to destination host
-[18:56:37 | Error]	Cannot connect to destination host
-[18:56:37 | Error]	Cannot connect to destination host
-[18:56:37 | Error]	Cannot connect to destination host
+[16:46:20 | Error]	Index out of range
+[16:46:20 | Log]	192.168.3.4
+[16:46:20 | Log]	Client Message Connect -> hostId: 1 connectionId: 1 isReady: False channel count: 2
+[16:46:20 | Error]	[AVProVideo] File not found: F:/Unity/DongFengGit/DongFeng/EXE/Wall/Video/环幕/1G.mp4
+[16:46:20 | Log]	Server Message Connect -> hostId: 0 connectionId: 1 isReady: False channel count: 2
+[16:46:20 | Error]	[AVProVideo] File not found: F:/Unity/DongFengGit/DongFeng/EXE/Wall/Video/环幕/1G.mp4
+[16:46:31 | Exception]	NullReferenceException: Object reference not set to an instance of an object
